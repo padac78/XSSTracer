@@ -24,7 +24,7 @@ class bcolors:
 def print_banner():
     print(bcolors.OKBLUE + "	__  ______ _____ " + bcolors.ENDC)
     print(bcolors.OKBLUE + "	\ \/ / ___|_   s_|" + bcolors.ENDC)
-    print(bcolors.OKBLUE + "	 \  /\___ \ | |  " + bcolors.ENDC)
+    print(bcolors.OKBLUE + "	 \  /\___ \ | ss|  " + bcolors.ENDC)
     print(bcolors.OKBLUE + "	 /  \ ___) || |  " + bcolors.ENDC)
     print(bcolors.OKBLUE + "	/_/\_|____/ |_|  " + bcolors.ENDC)
     print("")
